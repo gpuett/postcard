@@ -1,0 +1,16 @@
+#letter {
+  display: none;
+  font-size: 24px;
+  font-family: monospace;
+}
+
+#address {
+  max-width: 250px;
+  float: right;
+  margin-right: 150px;
+  margin-top: 60px;
+}
+
+#postcard {
+  background-color: beige;
+}
